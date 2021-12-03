@@ -1,0 +1,2 @@
+# fundamentals_of_machine_learning
+weekly assignments anouk
